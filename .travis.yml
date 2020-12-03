@@ -1,2 +1,2 @@
 language: python
-python -m * discover -s ./src/test/ -p '*_test.py'
+script: python -m * discover -s ./src/test/ -p '*_test.py'
